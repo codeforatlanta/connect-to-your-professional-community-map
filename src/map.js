@@ -91,7 +91,7 @@ window.onload = function () {
     mapPoints(tabletop.sheets("Points").elements);
   }
 
-  var tabletop = Tabletop.init( { key: '1I1bHQTUNCPHD6AuyNQfYV6g0qqJI8OjF9UHP9MW4XYg',
+  var tabletop = Tabletop.init( { key: '1QEWSScFgDxwFYa76pI3IUAn4-krNhKd6NTe5awejFYs',
     callback: function(data, tabletop) { onTabletopLoad() } 
   });
 
